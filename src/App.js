@@ -8,8 +8,7 @@ function App() {
   return (
     <FullDiv >
       {/* <img style={{marginBottom:"40px", marginTop:"50px"}} src={logo}/> */}
-      <h1 style={{marginTop:"50px"}}> SPLI </h1>
-      <h1 style={{marginBottom:"40px"}}> TTER</h1>
+     
 
      <Card/>
      
@@ -29,4 +28,5 @@ align-items: center;
 flex-direction: column;
 
 `
+
 
